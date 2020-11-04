@@ -53,6 +53,6 @@ insert into 주문 values ('o04', 'carrot', 'p02', 8, '부산시 금정구', '19/02/01')
 insert into 주문 values ('o05', 'melon', 'p06', 36, '경기도 용인시', '19/02/20');
 insert into 주문 values ('o06', 'banana', 'p01', 19, '충청북도 보은군', '19/03/02');
 insert into 주문 values ('o07', 'apple', 'p03', 22, '서울시 영등포구', '19/03/15');
-insert into 주문 values ('o08', 'pear', 'p02', 50, '강원도 춘천시', '/19/04/10');
+insert into 주문 values ('o08', 'pear', 'p02', 50, '강원도 춘천시', '19/04/10');
 insert into 주문 values ('o09', 'banana', 'p04', 15, '전라남도 목포시', '19/04/11');
 insert into 주문 values ('o10', 'carrot', 'p03', 20, '경기도 안양시', '19/05/22');
